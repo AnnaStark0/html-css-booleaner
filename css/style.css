@@ -1,0 +1,34 @@
+/* Header */
+.sfondohead {
+height: 100px;
+background-color: lightskyblue;
+background-image: url("pattern.png");
+}
+
+.logo {
+width: 15%;
+}
+/*Fine Header*/
+
+/*Main*/
+
+h1 {
+    font-size: 50px;
+}
+
+.scrittoda {
+    color: grey;
+    margin-bottom: 2%;
+}
+
+.boolean {
+    color: blue;
+}
+
+.fototesto {
+    font-size:small;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
