@@ -3,6 +3,8 @@
 height: 100px;
 background-color: #1C9DF7;
 background-image: url("pattern.png");
+background-size: 30%;
+
 }
 
 .logo {
@@ -16,11 +18,16 @@ margin-top: 30px;
 /*div1*/
 h1 {
     font-size: 50px;
+    margin-bottom: 0%;
 }
 
 .scrittoda {
     color: grey;
     margin-bottom: 2%;
+}
+
+.scrittoda2 {
+    font-size: 12px;
 }
 
 .boolean {
@@ -50,9 +57,31 @@ h1 {
 }
 /*fine tabella*/
 
+.pi {
+    color: grey;
+    font-size: medium;
+}
 
 /*immagini*/
-.finalfoto1 {
-    background-image: url
+
+.moni {
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-bottom: 20px;
+}
+
+.lid {
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+
+.graf {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+
 }
 
