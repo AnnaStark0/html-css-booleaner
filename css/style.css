@@ -48,4 +48,7 @@ h1 {
 }
 /*fine tabella*/
 
-
+/*immagini*/
+.finalfoto1 {
+    background-image: url("monitor.jpg");
+}
