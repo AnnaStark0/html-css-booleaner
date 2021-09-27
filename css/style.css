@@ -12,6 +12,7 @@ width: 15%;
 
 /*Main*/
 
+/*div1*/
 h1 {
     font-size: 50px;
 }
@@ -24,6 +25,8 @@ h1 {
 .boolean {
     color: blue;
 }
+/*fine div1*/
+
 
 .fototesto {
     font-size:small;
@@ -32,3 +35,17 @@ h1 {
 .evidenziato {
     background-color: yellow;
 }
+
+
+/*tabella*/
+.tabellahead {
+    background-color: blue;
+    color: white;
+}
+
+.riga {
+    background-color: turquoise;
+}
+/*fine tabella*/
+
+
