@@ -1,16 +1,17 @@
 /* Header */
 .sfondohead {
 height: 100px;
-background-color: lightskyblue;
+background-color: #1C9DF7;
 background-image: url("pattern.png");
 }
 
 .logo {
 width: 15%;
+margin-top: 30px;
 }
 /*Fine Header*/
 
-/*Main*/
+
 
 /*div1*/
 h1 {
@@ -28,6 +29,7 @@ h1 {
 /*fine div1*/
 
 
+
 .fototesto {
     font-size:small;
 }
@@ -39,16 +41,18 @@ h1 {
 
 /*tabella*/
 .tabellahead {
-    background-color: blue;
+    background-color: #05CBFC;
     color: white;
 }
 
 .riga {
-    background-color: turquoise;
+    background-color: #8FFBFA ;
 }
 /*fine tabella*/
 
+
 /*immagini*/
 .finalfoto1 {
-    background-image: url("monitor.jpg");
+    background-image: url
 }
+
